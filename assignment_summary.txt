@@ -1,0 +1,18 @@
+Assignment summary for dataset GSE72267
+Number of CEL files read:  59 
+Automatic raw outlier count (heuristic):  1 
+Automatic normalized outlier count (heuristic):  1 
+Probes before filtering: 22277 
+Probes after filtering (expression-count method): 13788 
+Group counts (Control / PD / Unknown):
+groups
+Control      PD Unknown 
+     19      40       0 
+arrayQualityMetrics (raw) dir:  C:/Users/PMLS/Documents/Results/arrayQM_raw 
+arrayQualityMetrics (normalized) dir:  C:/Users/PMLS/Documents/Results/arrayQM_normalized 
+Top DE results (limma) saved to:  C:/Users/PMLS/Documents/Results/limma_topTable_PDvsControl.csv 
+All outputs written to: C:/Users/PMLS/Documents/Results 
+IMPORTANT: open the two index.html reports (raw & normalized) and visually report how many arrays are red-flagged for your assignment.
+Manual raw outlier count (visual inspection): 3
+Manual normalized outlier count (visual inspection): 1
+
